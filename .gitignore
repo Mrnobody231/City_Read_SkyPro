@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 allure*
 
-.idea/*
+.idea/
 
 __pycache__/
 *.py[cod]
